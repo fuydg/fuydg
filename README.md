@@ -17,4 +17,4 @@
 ![Adblock Plus Badge](https://img.shields.io/badge/Adblock%20Plus-C70D2C?logo=adblockplus&logoColor=fff&style=for-the-badge)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fuydg)](https://github.com/anuraghazra/github-readme-stats)
+[![福伊德格's GitHub stats](https://github-readme-stats.vercel.app/api?username=fuydg)](https://github.com/anuraghazra/github-readme-stats)
