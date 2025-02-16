@@ -15,3 +15,4 @@
 ![Element Badge](https://img.shields.io/badge/Element-0DBD8B?logo=element&logoColor=fff&style=for-the-badge)
 ![QQ Badge](https://img.shields.io/badge/QQ-1EBAFC?logo=qq&logoColor=fff&style=for-the-badge)
 ![Adblock Plus Badge](https://img.shields.io/badge/Adblock%20Plus-C70D2C?logo=adblockplus&logoColor=fff&style=for-the-badge)
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
