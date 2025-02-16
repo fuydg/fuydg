@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xxo7lo4suv7gzyf3x6i7xikddu)
+
 我是 fuydg
 
 我没实力别关注我
